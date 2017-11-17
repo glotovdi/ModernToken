@@ -1,0 +1,29 @@
+{
+  "name": "trust_game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "caniuse-db": "1.0.30000457",
+    "del": "^2.2.0",
+    "es6-promise": "^3.0.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-clean-css": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-environments": "^0.1.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.12.0",
+    "gulp-svg-sprite": "^1.2.19",
+    "gulp-uglify": "^1.5.3",
+    "run-sequence": "^1.1.5"
+  }
+}
